@@ -1,8 +1,7 @@
-# notify
-This is my first website
+Instructions
 
 # website link
-https://abhi-sharma27.github.io/notify/
+https://abhi-sharma27.github.io/name of the Repo/
 
 # github commands to clone
 1. git clone LINK HERE
