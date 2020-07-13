@@ -13,4 +13,10 @@ https://abhi-sharma27.github.io/name of the Repo/
 5. git push origin master    // master is name of branch
 
 
+New project
 
+1.  git init
+2.  git status
+3.  git add .
+4.  git commit -m 'MESSAGE HERE'
+5.  git push origin master    // master is name of branch
